@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#fff8f2, #ffeef3);
+    font-family: "Georgia", serif;
+    color: #5b3a3a;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Petite introduction au chargement */
+.intro {
+    position: fixed;
+    inset: 0;
+    background: #fff8f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: #9b5c70;
+    animation: disappear 3s forwards;
+    z-index: 10;
+}
+
+@keyframes disappear {
+    0%, 70% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+/* Enveloppe */
+.envelope {
+    width: 260px;
+    height: 180px;
+    background: #fff;
+    position: relative;
+    margin: 40px auto 25px;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.flap {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+    border-top: 95px solid #f3b8c7;
+    top: 0;
+    left: 0;
+    transform-origin: top;
+    transition: transform 1s;
+    z-index: 2;
+}
+
+.letter-preview {
+    font-size: 70px;
+    padding-top: 55px;
+}
+
+/* Animation ouverture */
+.envelope.open .flap {
+    transform: rotateX(180deg);
+}
+
+button {
+    background: #d9829b;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #c56884;
+}
+
+/* Lettre */
+.message-box {
+    background: white;
+    max-width: 450px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+    margin: 20px auto;
+    line-height: 1.7;
+    animation: appear 1s;
+}
+
+.message-box h1 {
+    color: #c56884;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+#waiting {
+    margin-top: 20px;
+    font-style: italic;
+}
