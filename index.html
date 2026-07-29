@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Une petite surprise pour toi ❤️</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+    <div class="intro" id="intro">
+        <p>J'ai préparé quelque chose pour toi...</p>
+    </div>
+
+    <main class="container">
+
+        <div class="envelope" id="envelope">
+            <div class="flap"></div>
+            <div class="letter-preview">
+                💌
+            </div>
+        </div>
+
+        <div class="message-box hidden" id="messageBox">
+            <h1 id="nickname"></h1>
+            <p id="date"></p>
+            <div id="message"></div>
+        </div>
+
+        <button id="openButton">
+            Ouvrir mon enveloppe 💌
+        </button>
+
+        <p id="waiting" class="hidden"></p>
+
+    </main>
+
+    <script src="messages.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
