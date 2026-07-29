@@ -15,7 +15,7 @@ const messages = [
         date: "2 août",
         surnom: "Chouchou",
         texte: `
-        Bonjour toi ❤️
+        Coucou chouchou ❤️
 
         J'espère que tu as bien dormi et que ta journée commence bien.
 
@@ -42,11 +42,14 @@ const messages = [
         date: "4 août",
         surnom: "Chou",
         texte: `
-        Petit message du jour :
-
-        N'oublie jamais de prendre un moment pour toi aujourd'hui.
-
-        Respire, profite des petits moments et sache que quelqu'un pense fort à toi. ❤️
+        Petit défi du jour :
+        
+        Pense a moi au moins 5 fois dans la journée et surtout rappelle toi a quel moment précis tu l'a fait, 
+        et ce soir appelle moi pour tout me raconter. 
+        
+        Tu vas y arriver, t'es le meilleur 
+        
+        Je t'aime ❤️
         `
     },
 
@@ -54,11 +57,17 @@ const messages = [
         date: "5 août",
         surnom: "Mathieu",
         texte: `
-        Mathieu,
-
-        Je voulais simplement te rappeler aujourd'hui que tu comptes beaucoup pour moi.
-
-        Merci pour les moments partagés et tous ceux qui restent encore à venir. ❤️
+        Raisons de pourquoi je t'aime ( je pourrai pas tout dire 
+        mais juste quelques uns pour te donner le sourire et bien commencer la journée )
+            - tu me fais rire 100% du temps 
+            - tu me rassures quand j'en ai besoin 
+            - t'es a l'écoute et très attentionné 
+            - tu rends mes journées tellement meilleures 
+            - t'es fidèle ( fin je l'espère mais j'ai confiance ) 
+            - tout simplement parce que tu es TOI et c'est parfait 
+            - evidemment parce que t'es super beau aussi ça compte 
+            
+        Bref, je t'aime ❤️
         `
     },
 
@@ -79,11 +88,7 @@ const messages = [
         date: "7 août",
         surnom: "Chouchou",
         texte: `
-        Même un petit message peut contenir beaucoup d'affection.
-
-        Alors voilà le mien aujourd'hui :
-
-        Je pense à toi. ❤️
+        Rien de spécial a te dire aujourd'hui seulement le plus important, je t'aime plus que tout mon amour ❤️
         `
     },
 
