@@ -3,17 +3,11 @@ const messages = [
         date: "1 août",
         surnom: "Mon cœur",
         texte: `
-        Si tu lis cette première lettre, c'est que ma petite surprise commence. ❤️
-
-        J'avais envie de trouver une façon d'être un peu avec toi chaque matin,
-        même quand je ne suis pas juste à côté de toi.
-
-        Pendant ces prochains jours, tu trouveras quelques petits mots de moi,
-        juste pour te rappeler que quelqu'un pense à toi.
-
-        J'espère que cette première lettre te donnera le sourire.
-
-        Passe une belle journée. ❤️
+        Si tu ouvres ce mot c'est que tu es parti... 
+        Et moi je commence deja a compter les jours. Profite a fond de tes vacances et de tes copains amuse toi bien.
+        Je pense très fort a toi.
+        Je t'aime ❤️
+        
         `
     },
 
