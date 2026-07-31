@@ -143,11 +143,11 @@ const messages = [
         date: "12 août",
         surnom: "Chouchou",
         texte: `
-        Petit message rapide :
-
-        Merci d'être toi.
-
-        C'est déjà beaucoup. ❤️
+        MERCI D'ETRE TOI MATHIEU, merci de m'aimer comme tu le fais, 
+        merci de rendre mes journées plus belles (fin quand t'es la surtout ), 
+        merci de faire partie de ma vie, merci de me faire sourire tout le temps. 
+        J'en ai des milliers d'autres en tête mais je peux pas tout écrire, 
+        enfin bref t'es tellement parfait. Je t'aime ❤️
         `
     },
 
