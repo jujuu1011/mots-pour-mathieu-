@@ -118,12 +118,12 @@ const messages = [
         date: "10 août",
         surnom: "Mathieu",
         texte: `
-        La moitié de cette petite aventure est déjà passée.
-
+        La moitié du temps est passé.
         J'espère que ces quelques mots t'ont fait plaisir.
 
-        Voici simplement un nouveau rappel :
-        tu es quelqu'un de précieux. ❤️
+        J'ai tellement hâte de te voir 
+
+        Je t'aime ❤️
         `
     },
 
@@ -187,9 +187,7 @@ const messages = [
         date: "16 août",
         surnom: "Mon cœur",
         texte: `
-        Un nouveau matin, une nouvelle petite pensée pour toi.
-
-        J'espère que ta journée sera belle. ❤️
+        Tu me manques tellement mon amour. Je t'aime de tout mon coeur. ❤️
         `
     },
 
@@ -219,10 +217,12 @@ const messages = [
         date: "19 août",
         surnom: "Chou",
         texte: `
-        L'avant-dernière petite lettre.
-
-        Je voulais juste te dire :
-        je suis heureuse d'avoir pu partager ces petits moments avec toi. ❤️
+        L'avant-dernièr petit mot.
+        
+        Profite, il te reste plus qu'un dodo tout seul, demain j'arrive haha. 
+        J'ai hyper hâte 
+        Bisous mon coeur, passe une bonne journée. 
+        je t'aime ❤️
         `
     },
 
@@ -230,14 +230,14 @@ const messages = [
         date: "20 août",
         surnom: "Mathieu",
         texte: `
-        Voilà la dernière lettre de cette petite aventure.
+        Voilà c'est le dernier mot de tes vacances.
 
-        J'espère que chaque enveloppe t'aura apporté un petit sourire.
+        J'espère que chacun t'aura apporté un petit sourire.
 
-        Même quand cette surprise sera terminée,
-        garde en tête qu'il y aura toujours quelqu'un qui pense à toi.
-
-        ❤️
+        Au fait j'ai une bonne nouvelle pour toi parce que dans quelques heures, J'ARRIVEEEE.
+        J'ai vraiment hâte de te serrer dans mes bras. 
+        
+        Je t'aime fort mon amour ❤️
         `
     }
 ];
