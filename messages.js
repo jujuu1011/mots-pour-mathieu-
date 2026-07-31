@@ -3,6 +3,9 @@ const messages = [
         date: "1 août",
         surnom: "Mon cœur",
         texte: `
+
+        Coucou mon coeur, 
+       
         Si tu ouvres ce mot c'est que tu es parti... 
         Et moi je commence deja a compter les jours. Profite a fond de tes vacances et de tes copains amuse toi bien.
         Je pense très fort a toi.
@@ -31,11 +34,15 @@ const messages = [
         date: "3 août",
         surnom: "Mon amour",
         texte: `
-        Il y a des personnes qui rendent les journées plus belles juste par leur présence.
+        Coucou chou.
 
-        Tu fais partie de ces personnes.
-
-        J'espère que cette petite lettre sera un petit rayon de soleil dans ta journée. ❤️
+        Petite mise en garde aujourd'hui.
+        Juste te prévenir que chaque jour que tu passes sans moi augmente le nombre de bisous que tu vas me devoir
+        a la fin de tes vacances ( quand tu vas me retrouver )
+        
+        Et tant qu'à y être autant te donner mon ordre principal : NE ME TROMPE PAS STP ( même si tu vois une belle 2007 )
+        
+        Je t'aime ❤️
         `
     },
 
@@ -76,12 +83,17 @@ const messages = [
         date: "6 août",
         surnom: "Mon cœur",
         texte: `
-        Un petit mot rien que pour toi :
-
-        J'espère que ta journée sera remplie de belles choses,
-        de sourires et de petits moments heureux.
-
-        Je t'envoie plein de bonnes pensées. ❤️
+        Coucou mon coeur 
+        
+        J'ai 3 ordres a te donner aujourd'hui, qui en réalité valent un peu pour tous les jours.
+        
+        Tu peux les mettres dans l'ordre de préférence que tu veux mais c'est hyper important que tu les respecte :
+                - amuse toi
+                - mets de la crème solaire par pitié 
+                - aime moi très fort 
+     
+        
+        Je t'aime ❤️
         `
     },
 
