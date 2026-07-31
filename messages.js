@@ -109,11 +109,7 @@ const messages = [
         date: "8 août",
         surnom: "Mon amour",
         texte: `
-        Une nouvelle journée commence.
-
-        J'espère qu'elle t'apportera autant de belles choses que tu peux en apporter autour de toi.
-
-        Prends soin de toi. ❤️
+         ❤️
         `
     },
 
@@ -208,11 +204,11 @@ const messages = [
         date: "17 août",
         surnom: "Chouchou",
         texte: `
-        Petit rappel du jour :
-
-        Tu es quelqu'un qui mérite plein de belles choses.
-
-        N'en doute jamais. ❤️
+        Prends en photo toutes les belles choses que tu vois dans ta journée, 
+        je veux que tu les partage un peu avec moi. 
+        ( tu peux t'inclure dedans, je sais déjà que t'es magnifique )
+        
+        Je t'aime ❤️
         `
     },
 
@@ -220,11 +216,12 @@ const messages = [
         date: "18 août",
         surnom: "Mon amour",
         texte: `
-        Plus que quelques lettres après celle-ci.
+        Coucou mon amour, 
 
-        J'espère que cette petite surprise t'aura apporté quelques sourires. ❤️
-        `
-    },
+        Bon j'avoue j'arrive un peu en panne d'inspirations la, 
+        parce qu'en rélaité la seule véritable chose a laquelle je pense c'est que je t'aime très fort, 
+        que tu me manque et que j'ai hâte de prendre le bâteau et de te rejoindre pour te faire pleins de bisous
+        
 
     {
         date: "19 août",
