@@ -19,10 +19,11 @@ const messages = [
 
         J'espère que tu as bien dormi et que ta journée commence bien.
 
-        Aujourd'hui je voulais simplement te dire que tu as une place importante
-        dans mes pensées.
+        Aujourd'hui je voulais simplement te dire qu'en réalité t'es un peu plus haut que le top 20 de mes personnes préférées mdr.
 
-        Profite de ta journée et garde un petit sourire pour moi. 😊
+        Profite de ta journée et garde un petit sourire pour moi. 
+
+        Je t'aime. 
         `
     },
 
