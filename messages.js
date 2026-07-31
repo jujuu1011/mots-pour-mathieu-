@@ -168,7 +168,9 @@ const messages = [
         merci de rendre mes journées plus belles (fin quand t'es la surtout ), 
         merci de faire partie de ma vie, merci de me faire sourire tout le temps. 
         J'en ai des milliers d'autres en tête mais je peux pas tout écrire, 
-        enfin bref t'es tellement parfait. Je t'aime ❤️
+        enfin bref t'es tellement parfait. 
+        
+        Je t'aime ❤️
         `
     },
 
@@ -187,9 +189,19 @@ const messages = [
         date: "14 août",
         surnom: "Chou",
         texte: `
-        J'espère que tu passes une belle journée.
+        Coucou chou, 
+        
+        Je commence a vraiment stresser pour la plongée mais j'ai tellement hâte d'un coté, j'espère que je vais pas mourir 
+        
+        Enfin bref fallait que jte le dise haha, 
+        Sinon j'espère que toi tu te régales avec tout le monde, 
+        que t'as bien retrouvé tes neveux ( demande a Sandro si il est toujours amoureux de moi mdrrr ), 
+        tu leur fera un bisous de ma part a tous les deux. 
 
-        Et si ce n'est pas le cas, j'espère que ce petit mot pourra l'améliorer un peu. ❤️
+        Si tu savais a quel point j'ai hâte de te serrer dans mes bras. 
+        Je te souhaite une bonne journée mon amour, 
+
+        Je t'aime ❤️
         `
     },
 
