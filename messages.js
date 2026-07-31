@@ -109,7 +109,14 @@ const messages = [
         date: "8 août",
         surnom: "Mon amour",
         texte: `
-         ❤️
+        Ouais j'avoue jsuis grave jalouse de toutes les meufs qui veulent te pécho en boite, 
+        mais elles ont de la chace de te voir le soir elles au moins. 
+        
+        En vrai j'rigole bb ( ou pas ), mais je veux que tu profites a fond 
+        de ton dernier jour et soir avec tes 777 d'amour
+        Sans m'oublier bien sur, pense quand même a moi a chaque fois qu'une meuf s'approche de toi❤️
+
+        Je t'aime ❤️
         `
     },
 
@@ -117,9 +124,13 @@ const messages = [
         date: "9 août",
         surnom: "Chou",
         texte: `
-        Aujourd'hui je voulais juste déposer un petit sourire dans ta journée.
+        Aujourd'hui je voulais juste déposer un petit sourire et pleins de bonnes choses dans ta journée.
 
-        J'espère que cette lettre y arrivera. 😊
+        J'espère que ce mot y arrivera. 
+        Fin surtout que j'y arriverai, parce que logiquement juste en te disant 
+        que c'est moi qui l'ai écrit ca doit te donner le sourire 😊
+
+        Bref je t'aime chou ❤️
         `
     },
 
@@ -140,11 +151,12 @@ const messages = [
         date: "11 août",
         surnom: "Mon cœur",
         texte: `
-        Bonjour ❤️
+        Coucou chouchou,
+        
+        J'espère que t'as bien dormi mais je me doute que oui puisque Astier arrive aujourd'hui tu dois être content, 
+        profite bien du temps avec lui, régalez vous, mais fais pas de conneries quand même hein
 
-        Je te souhaite une journée douce et remplie de bonnes surprises.
-
-        N'oublie pas : quelqu'un pense à toi aujourd'hui.
+        Bisous mon amour, je t'aime ❤️
         `
     },
 
@@ -164,9 +176,10 @@ const messages = [
         date: "13 août",
         surnom: "Mon amour",
         texte: `
-        Certaines personnes arrivent dans nos vies et y laissent une jolie trace.
-
-        Tu fais partie de ces personnes. ❤️
+        Je t'aime TRES TRES TRES TRES TRES TRES TRES TRES TRES TRES TRES TRES TRES fort 
+        ( juste pour que tu sois sur haha )
+        
+        Passe une bonne journée mon amour, régale toi❤️
         `
     },
 
@@ -184,11 +197,13 @@ const messages = [
         date: "15 août",
         surnom: "Mathieu",
         texte: `
-        Mathieu,
+        Coucou mon coeur, 
 
-        Aujourd'hui je voulais simplement te dire merci.
+        Je te souhaite de passe une magnifique journée entouré de ta famille, 
+        profite de chaques instants, ils sont précieux.
+        Et même si je ne suis pas la avec toi aujourd'hui, sache que je pense a toi du matin au soir NON STOP. 
+        Tu me manque, je t'aime plus que tout ❤️
 
-        Merci pour les moments, les sourires et les souvenirs. ❤️
         `
     },
 
@@ -220,7 +235,11 @@ const messages = [
 
         Bon j'avoue j'arrive un peu en panne d'inspirations la, 
         parce qu'en rélaité la seule véritable chose a laquelle je pense c'est que je t'aime très fort, 
-        que tu me manque et que j'ai hâte de prendre le bâteau et de te rejoindre pour te faire pleins de bisous
+        que tu me manque et que j'ai hâte de prendre le bâteau et de te rejoindre pour te faire pleins de bisous. 
+
+        Profite bien de l'arrivée de Tom, 
+
+        Je t'aime ❤️
         
 
     {
