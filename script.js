@@ -60,7 +60,7 @@ function openEnvelope() {
 
     isOpening = true;
 
-    currentLetter = messages[0];
+    currentLetter = getAvailableLetter();
     
     // Aucune lettre disponible
     if (!currentLetter) {
