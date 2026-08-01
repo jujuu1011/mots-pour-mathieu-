@@ -60,8 +60,8 @@ function openEnvelope() {
 
     isOpening = true;
 
-    currentLetter = getAvailableLetter();
-
+    currentLetter = messages[0];
+    
     // Aucune lettre disponible
     if (!currentLetter) {
         waiting.classList.remove("hidden");
