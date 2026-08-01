@@ -1,3 +1,4 @@
+alert("Le script fonctionne !");
 ```javascript
 const envelope = document.getElementById("envelope");
 const button = document.getElementById("openButton");
